@@ -1,3 +1,3 @@
 # jenkinscontainer
 jenkins integration with docker containers
-cp -R test6
+cp -R test7
